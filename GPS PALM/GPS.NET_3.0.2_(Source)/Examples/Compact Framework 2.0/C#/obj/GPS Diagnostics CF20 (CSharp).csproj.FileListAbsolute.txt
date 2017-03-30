@@ -1,0 +1,17 @@
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Compact Framework 2.0\C#\bin\Debug\Diagnostics.exe
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Compact Framework 2.0\C#\bin\Debug\Diagnostics.pdb
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Compact Framework 2.0\C#\bin\Debug\GeoFramework.Gps.PocketPC.dll
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Compact Framework 2.0\C#\bin\Debug\GeoFramework.PocketPC.dll
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Compact Framework 2.0\C#\bin\Debug\GeoFramework.Gps.PocketPC.pdb
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Compact Framework 2.0\C#\bin\Debug\GeoFramework.PocketPC.pdb
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Compact Framework 2.0\C#\bin\Debug\GeoFramework.PocketPC.xml
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Compact Framework 2.0\C#\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Compact Framework 2.0\C#\obj\Debug\Diagnostics.DetectForm.resources
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Compact Framework 2.0\C#\obj\Debug\Diagnostics.DeviceForm.resources
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Compact Framework 2.0\C#\obj\Debug\Diagnostics.MainForm.resources
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Compact Framework 2.0\C#\obj\Debug\Diagnostics.Properties.Resources.resources
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Compact Framework 2.0\C#\obj\Debug\Diagnostics.SummaryForm.resources
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Compact Framework 2.0\C#\obj\Debug\Diagnostics.LogForm.resources
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Compact Framework 2.0\C#\obj\Debug\GPS Diagnostics CF20 (CSharp).csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Compact Framework 2.0\C#\obj\Debug\Diagnostics.exe
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Compact Framework 2.0\C#\obj\Debug\Diagnostics.pdb

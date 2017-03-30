@@ -1,0 +1,4 @@
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Desktop Framework\C#\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Desktop Framework\C#\obj\Debug\Diagnostics.MainForm.resources
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Desktop Framework\C#\obj\Debug\GPS Diagnostics DF20 (CSharp).csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Desktop Framework\C#\obj\Debug\Diagnostics.exe

@@ -1,0 +1,8 @@
+C:\Users\Marcos\Desktop\GPS PALM\SLB\SLB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\GPS PALM\SLB\SLB\obj\Debug\LBS.Form1.resources
+C:\Users\Marcos\Desktop\GPS PALM\SLB\SLB\obj\Debug\SLB.Properties.Resources.resources
+C:\Users\Marcos\Desktop\GPS PALM\SLB\SLB\obj\Debug\SLB.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\GPS PALM\SLB\SLB\bin\Debug\SLB.exe
+C:\Users\Marcos\Desktop\GPS PALM\SLB\SLB\bin\Debug\SLB.pdb
+C:\Users\Marcos\Desktop\GPS PALM\SLB\SLB\obj\Debug\SLB.exe
+C:\Users\Marcos\Desktop\GPS PALM\SLB\SLB\obj\Debug\SLB.pdb

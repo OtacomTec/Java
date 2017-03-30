@@ -1,0 +1,17 @@
+
+GPS.NET 3.0 Diagnostics    Copyright © 2009  GeoFrameworks, LLC
+(____?) version 6.1.7600.0
+
+A. DEVICES TO TEST
+
+B. DEVICE DETECTION PROGRESS
+
+          17:32:57: Detection has started.
+          17:32:57: Detection completed in 0,0312 seconds.
+
+C. SUMMARY
+
+ERROR     No GPS devices were detected!
+WARNING   The GPS Intermediate Driver is not supported on this device.
+WARNING   The Microsoft® Bluetooth stack is not installed.
+

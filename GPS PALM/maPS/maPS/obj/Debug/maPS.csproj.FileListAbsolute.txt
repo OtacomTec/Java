@@ -1,0 +1,8 @@
+C:\Users\Marcos\Desktop\GPS PALM\maPS\maPS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\GPS PALM\maPS\maPS\obj\Debug\maPS.Form1.resources
+C:\Users\Marcos\Desktop\GPS PALM\maPS\maPS\obj\Debug\maPS.Properties.Resources.resources
+C:\Users\Marcos\Desktop\GPS PALM\maPS\maPS\obj\Debug\maPS.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\GPS PALM\maPS\maPS\bin\Debug\maPS.exe
+C:\Users\Marcos\Desktop\GPS PALM\maPS\maPS\bin\Debug\maPS.pdb
+C:\Users\Marcos\Desktop\GPS PALM\maPS\maPS\obj\Debug\maPS.exe
+C:\Users\Marcos\Desktop\GPS PALM\maPS\maPS\obj\Debug\maPS.pdb

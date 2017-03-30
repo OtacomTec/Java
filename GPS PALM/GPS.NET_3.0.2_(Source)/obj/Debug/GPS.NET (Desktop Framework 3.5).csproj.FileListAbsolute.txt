@@ -1,0 +1,8 @@
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\bin\Debug\DF35\GeoFramework.Gps.dll
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\bin\Debug\DF35\GeoFramework.Gps.pdb
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\bin\Debug\DF35\GeoFramework.dll
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\bin\Debug\DF35\GeoFramework.pdb
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\bin\Debug\DF35\GeoFramework.xml
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\obj\Debug\GeoFramework.Gps.dll
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\obj\Debug\GeoFramework.Gps.pdb

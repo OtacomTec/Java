@@ -1,0 +1,40 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Diagnostics
+</name>
+</assembly>
+<members>
+<member name="P:Diagnostics.DeviceForm.CurrentDevice">
+	<summary>
+ Controls the GPS device being displayed.
+ </summary>
+</member><member name="P:Diagnostics.LogForm.Device">
+	<summary>
+ Controls the device whose log is being displayed.
+ </summary>
+</member><member name="P:Diagnostics.LogForm.Title">
+	<summary>
+ Controls the title of the log file.
+ </summary>
+</member><member name="P:Diagnostics.LogForm.Body">
+	<summary>
+ Controls the body of the log file.
+ </summary>
+</member><member name="P:Diagnostics.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Diagnostics.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Diagnostics.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

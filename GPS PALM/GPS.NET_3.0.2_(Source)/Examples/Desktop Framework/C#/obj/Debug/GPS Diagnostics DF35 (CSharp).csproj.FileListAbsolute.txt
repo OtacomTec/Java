@@ -1,0 +1,13 @@
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Desktop Framework\C#\bin\Debug\DF35\Diagnostics.exe.config
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Desktop Framework\C#\bin\Debug\DF35\Diagnostics.exe
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Desktop Framework\C#\bin\Debug\DF35\Diagnostics.pdb
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Desktop Framework\C#\bin\Debug\DF35\GeoFramework.dll
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Desktop Framework\C#\bin\Debug\DF35\GeoFramework.Gps.dll
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Desktop Framework\C#\bin\Debug\DF35\GeoFramework.pdb
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Desktop Framework\C#\bin\Debug\DF35\GeoFramework.xml
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Desktop Framework\C#\bin\Debug\DF35\GeoFramework.Gps.pdb
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Desktop Framework\C#\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Desktop Framework\C#\obj\Debug\Diagnostics.MainForm.resources
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Desktop Framework\C#\obj\Debug\GPS Diagnostics DF35 (CSharp).csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Desktop Framework\C#\obj\Debug\Diagnostics.exe
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\Examples\Desktop Framework\C#\obj\Debug\Diagnostics.pdb

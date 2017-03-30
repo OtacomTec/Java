@@ -1,0 +1,10 @@
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\bin\Debug\CF35\GeoFramework.Gps.PocketPC.dll
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\bin\Debug\CF35\GeoFramework.Gps.PocketPC.pdb
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\bin\Debug\CF35\GeoFramework.PocketPC.dll
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\bin\Debug\CF35\GeoFramework.PocketPC.pdb
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\bin\Debug\CF35\GeoFramework.PocketPC.xml
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\obj\Debug\GeoFramework.Gps.Interpreter.resources
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\obj\Debug\GPS.NET (Compact Framework 3.5).csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\obj\Debug\GeoFramework.Gps.PocketPC.dll
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\obj\Debug\GeoFramework.Gps.PocketPC.pdb

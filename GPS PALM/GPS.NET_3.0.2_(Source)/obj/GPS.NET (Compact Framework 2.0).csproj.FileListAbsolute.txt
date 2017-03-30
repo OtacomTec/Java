@@ -1,0 +1,15 @@
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\bin\Debug\CF20\GeoFramework.Gps.PocketPC.dll
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\bin\Debug\CF20\GeoFramework.Gps.PocketPC.pdb
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\bin\Debug\CF20\GeoFramework.PocketPC.dll
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\bin\Debug\CF20\GeoFramework.PocketPC.pdb
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\bin\Debug\CF20\GeoFramework.PocketPC.xml
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\obj\Debug\GeoFramework.Gps.Controls.Altimeter.bmp
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\obj\Debug\GeoFramework.Gps.Controls.Clock.bmp
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\obj\Debug\GeoFramework.Gps.Controls.Compass.bmp
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\obj\Debug\GeoFramework.Gps.Controls.SatelliteSignalBar.bmp
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\obj\Debug\GeoFramework.Gps.Controls.Speedometer.bmp
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\obj\Debug\GeoFramework.Gps.Interpreter.bmp
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\obj\Debug\GeoFramework.Gps.Controls.SatelliteViewer.bmp
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\obj\Debug\GeoFramework.Gps.PocketPC.dll
+C:\Users\Marcos\Desktop\GPS PALM\GPS.NET_3.0.2_(Source)\obj\Debug\GeoFramework.Gps.PocketPC.pdb

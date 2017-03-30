@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Diagnostics
+</name>
+</assembly>
+<members>
+<member name="M:Diagnostics.MainForm.NotifyOfUnhandledException(System.Exception)">
+	<summary>
+ Logs an unhandled exception and displays a message box alerting the user to the error.
+ </summary>
+	<param name="exception">The unhandled exception.</param>
+</member>
+</members>
+</doc>
